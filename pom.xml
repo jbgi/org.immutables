@@ -12,7 +12,7 @@
   <artifactId>root</artifactId>
   <version>0.15-SNAPSHOT</version>
   <packaging>pom</packaging>
-
+  <!-- -->
   <name>${project.groupId}.${project.artifactId}</name>
   <description>
     Java toolkit based around usage of immutable objects and fluent interfaces.
